@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hey there! I'm Oliver, welcome to my Github profile.
+👋 Hey! I'm Oliver, welcome to my Github profile.
 
 As a junior developer with an appetite for learning, I'm always on the lookout for a new project! My coding toolbox is brimming with React, Next.js, Typescript, Tailwind CSS, but I'm ready to dive headfirst into new technologies and find inventive solutions to tricky problems. 💡
 
